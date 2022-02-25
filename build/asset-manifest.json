@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d11e6e98.css",
-    "main.js": "/static/js/main.af90e2f4.js",
+    "main.js": "/static/js/main.6f806298.js",
     "static/media/quizapp.png": "/static/media/quizapp.7acec72ab15a18c14747.png",
     "static/media/timer.png": "/static/media/timer.77908819c2529614e6ab.png",
     "static/media/pic1.jpg": "/static/media/pic1.874295dff75695418697.jpg",
+    "static/media/ecommerce.png": "/static/media/ecommerce.ee7e89451362edb3a86e.png",
     "static/media/linux.svg": "/static/media/linux.819fe3f9553ed05f38fd412c04747927.svg",
     "static/media/expenseTreacker.png": "/static/media/expenseTreacker.41eb7ad9a928051972bd.png",
+    "static/media/ecommerce-admin.png": "/static/media/ecommerce-admin.7ba9288aadcba184d590.png",
     "static/media/weatherapp.png": "/static/media/weatherapp.f371ea5c508a33a47615.png",
     "static/media/rockpaperscissor.png": "/static/media/rockpaperscissor.d613d30f547e73f54b5b.png",
     "static/media/calculator.png": "/static/media/calculator.248bffcd04583316081d.png",
@@ -43,10 +45,10 @@
     "static/media/solidity.svg": "/static/media/solidity.3655b137da81fa083d817868826adcc6.svg",
     "static/media/material-ui-1.svg": "/static/media/material-ui-1.030f754ad065284fe962a31c970b1421.svg",
     "main.d11e6e98.css.map": "/static/css/main.d11e6e98.css.map",
-    "main.af90e2f4.js.map": "/static/js/main.af90e2f4.js.map"
+    "main.6f806298.js.map": "/static/js/main.6f806298.js.map"
   },
   "entrypoints": [
     "static/css/main.d11e6e98.css",
-    "static/js/main.af90e2f4.js"
+    "static/js/main.6f806298.js"
   ]
 }
