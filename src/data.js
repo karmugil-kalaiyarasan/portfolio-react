@@ -6,45 +6,57 @@ import Rock from "./image/rockpaperscissor.png";
 import Timer from "./image/timer.png";
 import Ecommerce from "./image/ecommerce.png";
 import Admin from "./image/ecommerce-admin.png";
+import Movie from "./image/MovieTicketApp.png";
+import Diamond from "./image/diamond.png";
 
 export const products = [
   {
     id: 1,
-    img: Ecommerce,
-    link: "https://github.com/karmugil-kalaiyarasan/ecommerce-reactjs.git",
+    img: Movie,
+    link: "https://github.com/karmugil-kalaiyarasan/movieTicket-aspnet-core-mvc.git",
   },
   {
     id: 2,
-    img: Admin,
-    link: "https://github.com/karmugil-kalaiyarasan/ecommerce-reactjs.git",
+    img: Diamond,
+    link: "https://github.com/karmugil-kalaiyarasan/Diamondrealestate-readme.git",
   },
   {
     id: 3,
+    img: Ecommerce,
+    link: "https://github.com/karmugil-kalaiyarasan/ecommerce-reactjs.git",
+  },
+  // {
+  //   id: 4,
+  //   img: Admin,
+  //   link: "https://github.com/karmugil-kalaiyarasan/ecommerce-reactjs.git",
+  // },
+  {
+    id: 5,
     img: Expense,
     link: "https://github.com/karmugil-kalaiyarasan/expense-tracker.git",
   },
   {
-    id: 4,
+    id: 6,
     img: Weather,
     link: "https://github.com/karmugil-kalaiyarasan/weather-app.git",
   },
   {
-    id: 5,
+    id: 7,
     img: Quiz,
     link: "https://github.com/karmugil-kalaiyarasan/quiz-app.git",
   },
   {
-    id: 6,
+    id: 8,
     img: Calculator,
     link: "https://github.com/karmugil-kalaiyarasan/calculator.git",
   },
   {
-    id: 7,
+    id: 9,
     img: Rock,
     link: "https://github.com/karmugil-kalaiyarasan/rock-paper-scissors.git",
   },
   {
-    id: 8,
+    id: 10,
     img: Timer,
     link: "https://github.com/karmugil-kalaiyarasan/Event_timer.git",
   },
